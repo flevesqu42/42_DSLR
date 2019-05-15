@@ -2,6 +2,10 @@
 
 Subject : https://github.com/flevesqu42/42_DSLR/blob/master/github_ressources/DatascienceLogisticRegression.en.pdf
 
+Release date : 03/03/2019
+
+Language : Elixir (self experiment)
+
 Including bindings for Python and Matplotlib, describe, histogram, scatter plot, pair plot and Logistic Regression algorithm.
 
 ## DSLR
